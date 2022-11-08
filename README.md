@@ -4,8 +4,8 @@ RISC-V for autonomous driving project
 
 # Reference Designs
 
-Iliad is based on existing architectures and projects.
-Currently the main reference is XuanTie C910 which is Alibaba processor.
+Iliad is an open source SoC architecture based on RISC-V and planned for self-driving car industry.
+The SoC will mainly contain separated processing units, one will be a quad-core superscalar RISC-V based on Capablanca Architecture that will be responsible for the high performance computing and the other will be a simpler dual-core RISC-V based on PULPissimo architecture.
 
 
 # Documentation
