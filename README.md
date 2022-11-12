@@ -2,6 +2,8 @@
 
 RISC-V for autonomous driving project
 
+![alt text](https://github.com/varaujokilby/Iliad/blob/main/docs/Iliad_Architecture.png?raw=true)
+
 # Reference Designs
 
 Iliad is an open source SoC architecture based on RISC-V and planned for self-driving car industry.
